@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Mbblab3Application {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Sachin");
 		SpringApplication.run(Mbblab3Application.class, args);
 	}
 
