@@ -9,6 +9,7 @@ public class Mbblab3Application {
 	public static void main(String[] args) {
 		
 		System.out.println("Sachin");
+		System.out.println("SachinP");
 		SpringApplication.run(Mbblab3Application.class, args);
 	}
 
