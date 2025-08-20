@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: springboot-config
+data:
+  DB_HOST: "azure-sachin-mysql-server.mysql.database.azure.com"
+  DB_PORT: "3306"
+  DB_NAME: "mbblab1"
+  DB_USER: "sachin"
